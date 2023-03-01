@@ -1,2 +1,0 @@
-print("vineet")
-print("garg")

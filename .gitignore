@@ -1,0 +1,5 @@
+build/
+dist/
+my_package.egg-info/
+.tox/
+.pytest_cache/

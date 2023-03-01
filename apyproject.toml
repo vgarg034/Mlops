@@ -1,0 +1,9 @@
+[build-system]
+requires = ["cython", "setuptools", "wheel", "oldest-supported-numpy"]
+build-backend = "setuptools.build_meta"
+
+[tox]
+envlist = py36
+
+[testenv]
+commands = pytest
